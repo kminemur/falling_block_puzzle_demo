@@ -1,2 +1,2 @@
 # falling_block_puzzle_demo
-falling_block_puzzle_demo
+gola機能を使って、ブラウザで動く落ち物パズルゲームを作って
